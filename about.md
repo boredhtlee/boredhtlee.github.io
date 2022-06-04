@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+이것 저것 장난 삼아 만든 홈페이지...
+언제까지 유지될지?
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+`Hello World !`
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[boredhtlee@gmail.com](mailto:boredhtlee@gmail.com)
