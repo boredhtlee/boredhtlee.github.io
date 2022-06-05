@@ -9,7 +9,7 @@ name: boredhtlee
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/boredhtlee/boredhtlee.github.io/blob/fd1ea591efd946177ffdc064a41c7796e39abcfc/images/logo.jpg
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
