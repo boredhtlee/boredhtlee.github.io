@@ -15,17 +15,19 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
-  
-  {% for about in site.posts %}
-    <article class="about">
+</div>
 
-      <h1><a href="{{ site.baseurl }}{{ about.url }}">{{ about.title }}</a></h1>
+<div class="pages">
+  {% for page in site.pages %}
+    <article class="page">
+
+      <h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
 
       <div class="entry">
-        {{ about.excerpt }}
+        {{ page.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ about.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ page.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
